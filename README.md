@@ -1,4 +1,4 @@
-![ococa](./client/src/static/images/ococa.png)
+![ococa](./src/static/images/ococa.png)
 
 # ococaとは
 ムードトラッキングアプリです。  

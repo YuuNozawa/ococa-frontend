@@ -1,0 +1,12 @@
+node_modules/
+build/
+.DS_Store
+*.env.*
+*.http
+.ssh/
+docker/
+docker-compose.yml
+temp.sql
+
+# VSCode
+settings.json
