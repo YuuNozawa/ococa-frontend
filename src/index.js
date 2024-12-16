@@ -8,7 +8,7 @@ const root = createRoot(container);
 
 root.render(
     <React.StrictMode>
-        <BrowserRouter>
+        <BrowserRouter basename="/ococa">
             <App />
         </BrowserRouter>
     </React.StrictMode>,
